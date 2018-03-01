@@ -6,11 +6,10 @@ body {
 
 
 
-#header {        
+#header {      
+    position: relative;
     background-position: center;
     background-repeat: no-repeat;
-    position: relative;
-    overflow: hidden;
     }
 
 
@@ -19,9 +18,7 @@ body {
     position: absolute;    
     text-transform: uppercase;
     text-align: left;
-    overflow: hidden;
-    
-}
+    }
 
 
 #header-content h2 {
